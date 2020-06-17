@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERPAPI", "ERPAPI\ERPAPI.csproj", "{030D4ECD-042A-4460-838F-FA7C0750D282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{F8971AD5-9F37-4295-BC7B-7162488B33D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{F8971AD5-9F37-4295-BC7B-7162488B33D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{DAF0ED2F-BCCA-415C-9E14-6B956289AFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{DAF0ED2F-BCCA-415C-9E14-6B956289AFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B6E0574D-B9FA-4825-A0A4-C1BE4E210B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{B6E0574D-B9FA-4825-A0A4-C1BE4E210B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{5F11678D-AA32-4831-8E86-38A83BCD050D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{5F11678D-AA32-4831-8E86-38A83BCD050D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
