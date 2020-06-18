@@ -18,6 +18,9 @@ namespace Business
             }
         }
         //显示
-        public List<AllotModel>
+        public List<AllotModel> ShowPage(int pageIndex,int pagesize)
+        {
+            return null;
+        }
     }
 }
