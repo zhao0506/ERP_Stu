@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IOT_Project_Commarc.DataAccess.AdoNet
+namespace DataAccess.AdoNet
 {
     /// <summary>
     /// SqlServer访问数据库
