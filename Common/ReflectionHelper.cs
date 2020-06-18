@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IOT_Project_Commarc.Common
+namespace Common
 {
     public class ReflectionHelper
     {
